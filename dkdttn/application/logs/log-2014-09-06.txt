@@ -1,0 +1,73 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-09-06 02:24:47 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\dangky_detai\detai_giangvien_ajax_page.php 66
+ERROR - 2014-09-06 05:38:47 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\dangky_detai\detai_giangvien_ajax_page.php 66
+ERROR - 2014-09-06 05:38:52 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\dangky_detai\detai_giangvien_ajax_page.php 66
+ERROR - 2014-09-06 05:38:55 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\dangky_detai\detai_giangvien_ajax_page.php 66
+ERROR - 2014-09-06 06:17:30 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 06:19:34 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 06:19:42 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 06:19:48 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 06:19:49 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 06:19:52 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 06:21:49 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 06:22:18 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 09:33:50 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 09:33:58 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 09:36:38 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 09:37:06 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 09:37:15 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 09:37:19 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 09:37:23 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 09:40:36 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 09:41:46 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 09:42:03 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-09-06 13:20:57 --> Severity: Notice  --> Undefined index: gv_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 425
+ERROR - 2014-09-06 13:20:57 --> Severity: Notice  --> Undefined index: cauhinh_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 426
+ERROR - 2014-09-06 13:20:57 --> Severity: Notice  --> Undefined index: cn_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 427
+ERROR - 2014-09-06 15:31:20 --> Severity: Notice  --> Undefined variable: ds_cn D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-09-06 15:31:20 --> Severity: Warning  --> Invalid argument supplied for foreach() D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-09-06 15:31:20 --> Severity: Notice  --> Undefined variable: ds_lop D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-09-06 15:31:20 --> Severity: Warning  --> Invalid argument supplied for foreach() D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-09-06 15:31:36 --> Severity: Notice  --> Undefined variable: ds_cn D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-09-06 15:31:36 --> Severity: Warning  --> Invalid argument supplied for foreach() D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-09-06 15:31:36 --> Severity: Notice  --> Undefined variable: ds_lop D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-09-06 15:31:36 --> Severity: Warning  --> Invalid argument supplied for foreach() D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 61
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 61
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 61
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 61
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 98
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 98
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 98
+ERROR - 2014-09-06 17:12:34 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 98

@@ -1,0 +1,5 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-12-11 13:00:33 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-11 13:00:49 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-11 13:01:49 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83

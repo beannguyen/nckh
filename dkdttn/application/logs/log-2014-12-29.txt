@@ -1,0 +1,33 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-12-29 00:50:48 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 00:50:59 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 00:51:06 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 03:40:16 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 04:15:10 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 04:33:49 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-29 04:33:49 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-29 04:43:21 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 04:44:05 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 04:44:10 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 04:45:35 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 04:45:48 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 04:46:27 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 04:46:35 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 04:46:40 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 04:54:25 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-29 04:54:42 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-29 04:55:28 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-29 04:55:38 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-29 04:55:51 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-29 05:24:06 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 09:42:39 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 11:50:54 --> Severity: Notice  --> Undefined index: gv_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 425
+ERROR - 2014-12-29 11:50:54 --> Severity: Notice  --> Undefined index: cauhinh_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 426
+ERROR - 2014-12-29 11:50:54 --> Severity: Notice  --> Undefined index: cn_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 427
+ERROR - 2014-12-29 12:11:34 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 15:56:17 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 15:56:37 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 17:31:41 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 17:31:52 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-29 17:32:00 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57

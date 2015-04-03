@@ -1,0 +1,12 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-11-10 16:26:21 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_sinh_vien.php 54
+ERROR - 2014-11-10 16:58:04 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_giang_vien.php 43
+ERROR - 2014-11-10 16:58:35 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_de_tai.php 56
+ERROR - 2014-11-10 16:59:05 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_de_tai.php 56
+ERROR - 2014-11-10 17:00:09 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_de_tai.php 56
+ERROR - 2014-11-10 17:23:09 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-11-10 17:23:33 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-11-10 17:23:34 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-11-10 17:23:35 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-11-10 17:24:50 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83

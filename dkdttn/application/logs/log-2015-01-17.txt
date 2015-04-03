@@ -1,0 +1,22 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-01-17 03:34:21 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_giang_vien.php 43
+ERROR - 2015-01-17 03:36:02 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_giang_vien.php 43
+ERROR - 2015-01-17 03:45:13 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_sinh_vien.php 54
+ERROR - 2015-01-17 12:54:29 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 12:55:29 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:02:51 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:04:58 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:05:02 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:08:54 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:12:51 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:15:07 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:15:07 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:29:27 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:29:27 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:29:38 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:29:38 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:29:42 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:29:42 --> Query error: Table 'dkdttn.ci_sessions' doesn't exist
+ERROR - 2015-01-17 13:31:46 --> Severity: Warning  --> mysqli_connect(): (HY000/1049): Unknown database 'dkdttn' D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2015-01-17 13:31:46 --> Unable to connect to the database

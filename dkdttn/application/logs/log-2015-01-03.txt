@@ -1,0 +1,11 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-01-03 04:42:11 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2015-01-03 04:42:25 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2015-01-03 17:05:09 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2015-01-03 17:05:22 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2015-01-03 17:06:11 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2015-01-03 17:06:17 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2015-01-03 17:06:17 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2015-01-03 17:06:17 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2015-01-03 17:06:39 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83

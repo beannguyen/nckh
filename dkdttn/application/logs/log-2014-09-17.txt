@@ -1,0 +1,8 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-09-17 03:56:24 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\user\danh_sach_giang_vien.php 109
+ERROR - 2014-09-17 13:27:01 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\user\danh_sach_giang_vien.php 109
+ERROR - 2014-09-17 13:34:56 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\user\danh_sach_giang_vien.php 109
+ERROR - 2014-09-17 16:38:06 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_giang_vien.php 43
+ERROR - 2014-09-17 19:18:42 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\user\danh_sach_giang_vien.php 109
+ERROR - 2014-09-17 19:26:43 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\user\danh_sach_giang_vien.php 109

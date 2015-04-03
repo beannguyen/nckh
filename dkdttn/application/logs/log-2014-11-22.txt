@@ -1,0 +1,14 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-11-22 15:50:21 --> Severity: Notice  --> Undefined offset: 1 D:\xampp\htdocs\dkdttn\application\models\m_user.php 40
+ERROR - 2014-11-22 16:02:56 --> Severity: Notice  --> Undefined variable: ds_cn D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-11-22 16:02:56 --> Severity: Warning  --> Invalid argument supplied for foreach() D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-11-22 16:02:56 --> Severity: Notice  --> Undefined variable: ds_lop D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-11-22 16:02:56 --> Severity: Warning  --> Invalid argument supplied for foreach() D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-11-22 16:03:06 --> Severity: Notice  --> Undefined variable: ds_cn D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-11-22 16:03:06 --> Severity: Warning  --> Invalid argument supplied for foreach() D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-11-22 16:03:06 --> Severity: Notice  --> Undefined variable: ds_lop D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-11-22 16:03:06 --> Severity: Warning  --> Invalid argument supplied for foreach() D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-11-22 16:41:19 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_giang_vien.php 43
+ERROR - 2014-11-22 16:42:32 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-11-22 16:44:25 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83

@@ -1,0 +1,6 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-09-15 01:52:08 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_giang_vien.php 43
+ERROR - 2014-09-15 16:25:22 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_sinh_vien.php 54
+ERROR - 2014-09-15 16:52:20 --> Severity: Notice  --> Undefined index: giaovu D:\xampp\htdocs\dkdttn\application\hooks\acl_hook.php 216
+ERROR - 2014-09-15 16:52:24 --> Severity: Notice  --> Undefined index: giaovu D:\xampp\htdocs\dkdttn\application\hooks\acl_hook.php 216

@@ -1,0 +1,39 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 06:33:19 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-22 12:36:42 --> Severity: Warning  --> fopen(/public/filename.xls): failed to open stream: No such file or directory C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Shared\OLE\PPS\Root.php 90
+ERROR - 2014-02-22 12:42:23 --> Severity: Warning  --> fopen(/public/filename.xls): failed to open stream: No such file or directory C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Shared\OLE\PPS\Root.php 90

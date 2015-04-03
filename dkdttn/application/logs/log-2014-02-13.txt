@@ -1,0 +1,10 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-02-13 17:16:03 --> Severity: Notice  --> Undefined variable: pagination C:\xampp\htdocs\dkdt\application\views\dangky_detai\detai_giangvien_ajax_page.php 66
+ERROR - 2014-02-13 17:16:05 --> Severity: Notice  --> Undefined variable: pagination C:\xampp\htdocs\dkdt\application\views\dangky_detai\detai_giangvien_ajax_page.php 66
+ERROR - 2014-02-13 17:16:07 --> Severity: Notice  --> Undefined variable: pagination C:\xampp\htdocs\dkdt\application\views\dangky_detai\detai_giangvien_ajax_page.php 66
+ERROR - 2014-02-13 17:17:59 --> Severity: Notice  --> Undefined variable: pagination C:\xampp\htdocs\dkdt\application\views\dangky_detai\detai_giangvien_ajax_page.php 66
+ERROR - 2014-02-13 17:18:23 --> Severity: Notice  --> Undefined variable: pagination C:\xampp\htdocs\dkdt\application\views\dangky_detai\detai_giangvien_ajax_page.php 66
+ERROR - 2014-02-13 17:35:11 --> Query error: Unknown column 'tb_users.avatar' in 'field list'
+ERROR - 2014-02-13 17:37:10 --> Severity: Notice  --> Undefined variable: pagination C:\xampp\htdocs\dkdt\application\views\user\danh_sach_giang_vien.php 109
+ERROR - 2014-02-13 17:40:39 --> Severity: Notice  --> Undefined variable: pagination C:\xampp\htdocs\dkdt\application\views\user\danh_sach_giang_vien.php 109

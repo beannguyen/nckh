@@ -1,0 +1,48 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-02-16 04:16:08 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cotinmoi desc
+LIMIT 8' at line 3
+ERROR - 2014-02-16 04:40:34 --> Severity: Notice  --> Undefined variable: ds_cn C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-02-16 04:40:34 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-02-16 04:40:34 --> Severity: Notice  --> Undefined variable: ds_lop C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-02-16 04:40:34 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-02-16 04:40:42 --> Severity: Notice  --> Undefined variable: ds_cn C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-02-16 04:40:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-02-16 04:40:42 --> Severity: Notice  --> Undefined variable: ds_lop C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-02-16 04:40:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-02-16 04:41:28 --> Severity: Notice  --> Undefined variable: ds_cn C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-02-16 04:41:28 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-02-16 04:41:28 --> Severity: Notice  --> Undefined variable: ds_lop C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-02-16 04:41:28 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\dkdt\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fsockopen(): unable to connect to ssl://smtp.googlemail.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) C:\xampp\htdocs\dkdt\system\libraries\Email.php 1689
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1869
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1869
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1869
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1869
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:35 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1869
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fsockopen(): unable to connect to ssl://smtp.googlemail.com:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) C:\xampp\htdocs\dkdt\system\libraries\Email.php 1689
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1869
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1869
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1869
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1869
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fwrite() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1846
+ERROR - 2014-02-16 04:54:46 --> Severity: Warning  --> fgets() expects parameter 1 to be resource, boolean given C:\xampp\htdocs\dkdt\system\libraries\Email.php 1869
+ERROR - 2014-02-16 05:02:43 --> Severity: Notice  --> Undefined index: usertype C:\xampp\htdocs\dkdt\application\views\includes\left-sidebar.php 83
+ERROR - 2014-02-16 05:02:52 --> Severity: Notice  --> Undefined index: usertype C:\xampp\htdocs\dkdt\application\views\includes\left-sidebar.php 83
+ERROR - 2014-02-16 05:09:34 --> Severity: Notice  --> Undefined index: usertype C:\xampp\htdocs\dkdt\application\views\includes\left-sidebar.php 83
+ERROR - 2014-02-16 05:09:41 --> Severity: Notice  --> Undefined index: usertype C:\xampp\htdocs\dkdt\application\views\includes\left-sidebar.php 83
+ERROR - 2014-02-16 05:17:32 --> Severity: Notice  --> Undefined index: usertype C:\xampp\htdocs\dkdt\application\views\includes\left-sidebar.php 83
+ERROR - 2014-02-16 05:17:42 --> Severity: Notice  --> Undefined index: usertype C:\xampp\htdocs\dkdt\application\views\includes\left-sidebar.php 83
+ERROR - 2014-02-16 05:20:06 --> Severity: Notice  --> Undefined index: usertype C:\xampp\htdocs\dkdt\application\views\includes\left-sidebar.php 83
+ERROR - 2014-02-16 05:25:58 --> Severity: Notice  --> Undefined index: usertype C:\xampp\htdocs\dkdt\application\views\includes\left-sidebar.php 83

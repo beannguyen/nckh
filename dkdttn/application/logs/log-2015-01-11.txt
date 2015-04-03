@@ -1,0 +1,4 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-01-11 07:21:54 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2015-01-11 07:23:17 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57

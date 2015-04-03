@@ -1,0 +1,41 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-12-22 08:57:40 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\user\danh_sach_giang_vien.php 109
+ERROR - 2014-12-22 09:41:30 --> Severity: Notice  --> Undefined variable: curr_date D:\xampp\htdocs\dkdttn\application\models\m_dangkychuyennganh.php 9
+ERROR - 2014-12-22 09:41:30 --> Severity: Notice  --> Undefined variable: curr_date D:\xampp\htdocs\dkdttn\application\models\m_dangkychuyennganh.php 11
+ERROR - 2014-12-22 09:41:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `thoigianSVketthucdk` >=' at line 4
+ERROR - 2014-12-22 15:03:38 --> Severity: Notice  --> Use of undefined constant chuyennganh - assumed 'chuyennganh' D:\xampp\htdocs\dkdttn\application\views\dangkychuyennganh\Dang_ky.php 45
+ERROR - 2014-12-22 15:03:38 --> Severity: Notice  --> Array to string conversion D:\xampp\htdocs\dkdttn\application\views\dangkychuyennganh\Dang_ky.php 45
+ERROR - 2014-12-22 15:15:53 --> Severity: Notice  --> Undefined index: chuyenngan_1 D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 29
+ERROR - 2014-12-22 15:16:43 --> Severity: Notice  --> Undefined index: chuyenngan_1 D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 29
+ERROR - 2014-12-22 15:18:49 --> Severity: Notice  --> Undefined index: chuyenngan_1 D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 29
+ERROR - 2014-12-22 15:43:01 --> Severity: Notice  --> Undefined property: C_dangkychuyennganh::$data D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 29
+ERROR - 2014-12-22 15:45:42 --> Severity: Notice  --> Undefined property: CI_Input::$post D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 29
+ERROR - 2014-12-22 15:48:52 --> Severity: Notice  --> Undefined variable: chuyenngan_1 D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 30
+ERROR - 2014-12-22 15:56:07 --> Severity: Notice  --> Undefined property: CI_Input::$post D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 32
+ERROR - 2014-12-22 16:01:42 --> Severity: Notice  --> Undefined property: CI_Input::$post D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 32
+ERROR - 2014-12-22 16:20:43 --> Query error: Duplicate entry '2-413' for key 'PRIMARY'
+ERROR - 2014-12-22 16:29:08 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 36
+ERROR - 2014-12-22 17:53:32 --> Query error: Duplicate entry '2' for key 'PRIMARY'
+ERROR - 2014-12-22 17:55:27 --> Query error: Duplicate entry '2' for key 'PRIMARY'
+ERROR - 2014-12-22 18:01:08 --> Query error: Can't update table 'tb_cauhinh_dk_chuyennganh' in stored function/trigger because it is already used by statement which invoked this stored function/trigger.
+ERROR - 2014-12-22 18:01:16 --> Query error: Can't update table 'tb_cauhinh_dk_chuyennganh' in stored function/trigger because it is already used by statement which invoked this stored function/trigger.
+ERROR - 2014-12-22 18:27:13 --> Severity: Notice  --> Use of undefined constant date_start - assumed 'date_start' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 15
+ERROR - 2014-12-22 18:27:13 --> Severity: 4096  --> Object of class stdClass could not be converted to string D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 15
+ERROR - 2014-12-22 18:27:13 --> Severity: Notice  --> Use of undefined constant date_end - assumed 'date_end' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 16
+ERROR - 2014-12-22 18:27:13 --> Severity: 4096  --> Object of class stdClass could not be converted to string D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 16
+ERROR - 2014-12-22 18:27:44 --> Severity: Notice  --> Use of undefined constant date_start - assumed 'date_start' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 15
+ERROR - 2014-12-22 18:27:44 --> Severity: 4096  --> Object of class stdClass could not be converted to string D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 15
+ERROR - 2014-12-22 18:27:44 --> Severity: Notice  --> Use of undefined constant date_end - assumed 'date_end' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 16
+ERROR - 2014-12-22 18:27:44 --> Severity: 4096  --> Object of class stdClass could not be converted to string D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 16
+ERROR - 2014-12-22 18:29:22 --> Severity: Notice  --> Use of undefined constant date_start - assumed 'date_start' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 15
+ERROR - 2014-12-22 18:29:22 --> Severity: 4096  --> Object of class stdClass could not be converted to string D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 15
+ERROR - 2014-12-22 18:29:22 --> Severity: Notice  --> Use of undefined constant date_end - assumed 'date_end' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 16
+ERROR - 2014-12-22 18:29:22 --> Severity: 4096  --> Object of class stdClass could not be converted to string D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 16
+ERROR - 2014-12-22 18:30:49 --> Severity: Notice  --> Use of undefined constant date_start - assumed 'date_start' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 15
+ERROR - 2014-12-22 18:30:49 --> Severity: 4096  --> Object of class stdClass could not be converted to string D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 15
+ERROR - 2014-12-22 18:30:49 --> Severity: Notice  --> Use of undefined constant date_end - assumed 'date_end' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 16
+ERROR - 2014-12-22 18:30:49 --> Severity: 4096  --> Object of class stdClass could not be converted to string D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 16
+ERROR - 2014-12-22 18:34:11 --> Severity: Notice  --> Object of class DateTime could not be converted to int D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 21
+ERROR - 2014-12-22 18:34:42 --> Severity: Notice  --> Object of class DateTime could not be converted to int D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 21
+ERROR - 2014-12-22 18:35:22 --> Severity: Notice  --> Object of class DateTime could not be converted to int D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 21

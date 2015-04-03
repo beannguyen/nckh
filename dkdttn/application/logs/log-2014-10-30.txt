@@ -1,0 +1,14 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-10-30 21:59:08 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-30 21:59:08 --> Unable to connect to the database
+ERROR - 2014-10-30 21:59:08 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-30 21:59:08 --> Unable to connect to the database
+ERROR - 2014-10-30 21:59:09 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-30 21:59:09 --> Unable to connect to the database
+ERROR - 2014-10-30 21:59:11 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-30 21:59:11 --> Unable to connect to the database
+ERROR - 2014-10-30 21:59:13 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-30 21:59:13 --> Unable to connect to the database
+ERROR - 2014-10-30 21:59:14 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-30 21:59:14 --> Unable to connect to the database

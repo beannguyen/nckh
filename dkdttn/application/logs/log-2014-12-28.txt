@@ -1,0 +1,17 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-12-28 05:57:14 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 06:52:22 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 06:52:28 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 06:52:30 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 06:53:38 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 08:15:18 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 11:19:34 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 11:30:18 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 11:32:21 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 11:32:32 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 12:05:53 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 12:20:53 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 19:33:48 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 19:34:02 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-28 19:52:16 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57

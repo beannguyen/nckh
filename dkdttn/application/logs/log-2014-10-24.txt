@@ -1,0 +1,56 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-10-24 03:45:59 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2014-10-24 03:45:59 --> Unable to connect to the database
+ERROR - 2014-10-24 03:46:52 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2014-10-24 03:46:52 --> Unable to connect to the database
+ERROR - 2014-10-24 05:19:15 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2014-10-24 05:19:15 --> Unable to connect to the database
+ERROR - 2014-10-24 06:36:43 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2014-10-24 06:36:43 --> Unable to connect to the database
+ERROR - 2014-10-24 06:55:11 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2014-10-24 06:55:11 --> Unable to connect to the database
+ERROR - 2014-10-24 08:06:15 --> Severity: Warning  --> mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2014-10-24 08:06:15 --> Unable to connect to the database
+ERROR - 2014-10-24 08:06:19 --> Severity: Warning  --> mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2014-10-24 08:06:19 --> Unable to connect to the database
+ERROR - 2014-10-24 08:06:19 --> Severity: Warning  --> mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2014-10-24 08:06:19 --> Unable to connect to the database
+ERROR - 2014-10-24 08:06:19 --> Severity: Warning  --> mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2014-10-24 08:06:19 --> Unable to connect to the database
+ERROR - 2014-10-24 08:08:09 --> Severity: Warning  --> mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2014-10-24 08:08:09 --> Unable to connect to the database
+ERROR - 2014-10-24 09:21:48 --> Severity: Warning  --> mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 09:21:48 --> Unable to connect to the database
+ERROR - 2014-10-24 11:26:29 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 11:26:29 --> Unable to connect to the database
+ERROR - 2014-10-24 11:26:37 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 11:26:37 --> Unable to connect to the database
+ERROR - 2014-10-24 13:22:39 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 13:22:39 --> Unable to connect to the database
+ERROR - 2014-10-24 13:35:52 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 13:35:52 --> Unable to connect to the database
+ERROR - 2014-10-24 14:16:10 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 14:16:10 --> Unable to connect to the database
+ERROR - 2014-10-24 15:25:28 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 15:25:28 --> Unable to connect to the database
+ERROR - 2014-10-24 15:52:53 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 15:52:53 --> Unable to connect to the database
+ERROR - 2014-10-24 15:52:54 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 15:52:54 --> Unable to connect to the database
+ERROR - 2014-10-24 15:53:12 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 15:53:12 --> Unable to connect to the database
+ERROR - 2014-10-24 15:53:12 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 15:53:12 --> Unable to connect to the database
+ERROR - 2014-10-24 16:21:06 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 16:21:06 --> Unable to connect to the database
+ERROR - 2014-10-24 16:22:21 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 16:22:21 --> Unable to connect to the database
+ERROR - 2014-10-24 16:22:23 --> Severity: Warning  --> mysqli_connect(): (08004/1040): Too many connections D:\xampp\htdocs\dkdttn\system\database\drivers\mysqli\mysqli_driver.php 72
+ERROR - 2014-10-24 16:22:23 --> Unable to connect to the database

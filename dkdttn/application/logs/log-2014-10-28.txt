@@ -1,0 +1,4 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-10-28 03:51:48 --> Severity: Notice  --> Undefined variable: pagination C:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_giang_vien.php 43
+ERROR - 2014-10-28 03:52:24 --> Severity: Notice  --> Undefined variable: pagination C:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_giang_vien.php 43

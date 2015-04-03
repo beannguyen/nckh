@@ -1,0 +1,44 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_gv D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 61
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 61
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 61
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 61
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 98
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 98
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 98
+ERROR - 2015-01-20 12:13:21 --> Severity: Notice  --> Undefined variable: select_ch D:\xampp\htdocs\dkdttn\application\views\backend\quanly_detai\index_detai.php 98
+ERROR - 2015-01-20 12:13:37 --> Severity: Notice  --> Undefined variable: ds_cn D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2015-01-20 12:13:37 --> Severity: Warning  --> Invalid argument supplied for foreach() D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2015-01-20 12:13:37 --> Severity: Notice  --> Undefined variable: ds_lop D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2015-01-20 12:13:37 --> Severity: Warning  --> Invalid argument supplied for foreach() D:\xampp\htdocs\dkdttn\application\views\backend\quanly_nguoidung\index.php 93

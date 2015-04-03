@@ -1,0 +1,47 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-12-31 04:45:06 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-31 07:48:20 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-31 09:00:17 --> Severity: Warning  --> Division by zero D:\xampp\htdocs\dkdttn\application\views\thongke\thongke_giangvien_ajax.php 7
+ERROR - 2014-12-31 09:00:17 --> Severity: Warning  --> Division by zero D:\xampp\htdocs\dkdttn\application\views\thongke\thongke_giangvien_ajax.php 7
+ERROR - 2014-12-31 09:00:17 --> Severity: Warning  --> Division by zero D:\xampp\htdocs\dkdttn\application\views\thongke\thongke_giangvien_ajax.php 7
+ERROR - 2014-12-31 09:00:17 --> Severity: Warning  --> Division by zero D:\xampp\htdocs\dkdttn\application\views\thongke\thongke_giangvien_ajax.php 7
+ERROR - 2014-12-31 09:00:45 --> Severity: Warning  --> Division by zero D:\xampp\htdocs\dkdttn\application\views\thongke\thongke_giangvien_ajax.php 7
+ERROR - 2014-12-31 09:00:45 --> Severity: Warning  --> Division by zero D:\xampp\htdocs\dkdttn\application\views\thongke\thongke_giangvien_ajax.php 7
+ERROR - 2014-12-31 09:00:45 --> Severity: Warning  --> Division by zero D:\xampp\htdocs\dkdttn\application\views\thongke\thongke_giangvien_ajax.php 7
+ERROR - 2014-12-31 09:00:45 --> Severity: Warning  --> Division by zero D:\xampp\htdocs\dkdttn\application\views\thongke\thongke_giangvien_ajax.php 7
+ERROR - 2014-12-31 09:10:01 --> Severity: Notice  --> Undefined variable: pagination D:\xampp\htdocs\dkdttn\application\views\timkiem\tim_kiem_sinh_vien.php 54
+ERROR - 2014-12-31 10:25:19 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-31 10:25:33 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-31 10:25:46 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-31 10:26:35 --> Severity: Notice  --> Use of undefined constant nguyenvong2 - assumed 'nguyenvong2' D:\xampp\htdocs\dkdttn\application\controllers\c_dangkychuyennganh.php 57
+ERROR - 2014-12-31 14:07:20 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:07:29 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:07:39 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:07:39 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:07:44 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:07:48 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:07:54 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:08:25 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:08:32 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:08:52 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:08:56 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:09:01 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:09:03 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:09:04 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:09:05 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:09:11 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:09:15 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:09:15 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:09:15 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:09:54 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:10:06 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:10:10 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:11:09 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:12:30 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:12:34 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:12:37 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 14:14:09 --> Severity: Notice  --> Undefined index: usertype D:\xampp\htdocs\dkdttn\application\views\includes\left-sidebar.php 83
+ERROR - 2014-12-31 16:17:01 --> Severity: Notice  --> Undefined index: gv_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 425
+ERROR - 2014-12-31 16:17:01 --> Severity: Notice  --> Undefined index: cauhinh_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 426
+ERROR - 2014-12-31 16:17:01 --> Severity: Notice  --> Undefined index: cn_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 427

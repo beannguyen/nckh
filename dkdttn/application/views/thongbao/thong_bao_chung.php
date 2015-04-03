@@ -1,0 +1,1 @@
+<div class="alert alert-<?php echo @$alert_type ?>"><?php echo $thongbao ?></div>

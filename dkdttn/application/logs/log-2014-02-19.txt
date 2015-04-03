@@ -1,0 +1,450 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:35:32 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:09 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:36:19 --> Severity: Notice  --> Undefined variable: giangvien_id C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\detai_ajax.php 85
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:07 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 03:37:13 --> Severity: Notice  --> Undefined variable: giangvien_id C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\detai_ajax.php 85
+ERROR - 2014-02-19 03:37:25 --> Severity: Notice  --> Undefined index: chu_thich C:\xampp\htdocs\dkdt\application\controllers\c_admin.php 746
+ERROR - 2014-02-19 03:37:36 --> Severity: Notice  --> Undefined index: chu_thich C:\xampp\htdocs\dkdt\application\controllers\c_admin.php 746
+ERROR - 2014-02-19 03:37:45 --> Severity: Notice  --> Undefined variable: giangvien_id C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\detai_ajax.php 85
+ERROR - 2014-02-19 03:37:50 --> Severity: Notice  --> Undefined variable: giangvien_id C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\detai_ajax.php 85
+ERROR - 2014-02-19 04:09:59 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_admin.php 783
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_ch C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 12
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:40 --> Severity: Notice  --> Undefined variable: select_gv C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\index_detai.php 24
+ERROR - 2014-02-19 04:38:46 --> Severity: Notice  --> Undefined variable: giangvien_id C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\detai_ajax.php 85
+ERROR - 2014-02-19 04:38:50 --> Severity: Notice  --> Undefined variable: giangvien_id C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\detai_ajax.php 85
+ERROR - 2014-02-19 04:38:53 --> Severity: Notice  --> Undefined variable: giangvien_id C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\detai_ajax.php 85
+ERROR - 2014-02-19 04:39:01 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_admin.php 783
+ERROR - 2014-02-19 04:39:09 --> Severity: Notice  --> Undefined index: chu_thich C:\xampp\htdocs\dkdt\application\controllers\c_admin.php 795
+ERROR - 2014-02-19 04:39:10 --> Severity: Notice  --> Undefined variable: giangvien_id C:\xampp\htdocs\dkdt\application\views\backend\quanly_detai\detai_ajax.php 85
+ERROR - 2014-02-19 12:03:43 --> Severity: Warning  --> fopen(C:\xampp\htdocs\dkdt\application\controllers\c_home.xls): failed to open stream: Permission denied C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Shared\OLE\PPS\Root.php 90
+ERROR - 2014-02-19 12:35:04 --> Severity: Notice  --> Undefined variable: excel C:\xampp\htdocs\dkdt\application\controllers\c_home.php 23
+ERROR - 2014-02-19 12:35:22 --> Severity: Notice  --> Undefined variable: excel C:\xampp\htdocs\dkdt\application\controllers\c_home.php 23
+ERROR - 2014-02-19 12:35:24 --> Severity: Notice  --> Undefined variable: excel C:\xampp\htdocs\dkdt\application\controllers\c_home.php 23
+ERROR - 2014-02-19 12:35:59 --> Severity: Notice  --> Undefined variable: excel C:\xampp\htdocs\dkdt\application\controllers\c_home.php 21
+ERROR - 2014-02-19 12:38:25 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:38:50 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:42:35 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:43:33 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:43:42 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:44:12 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:44:52 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:44:52 --> Severity: Warning  --> fopen(C:\xampp\htdocs\dkdt\application\controllers\c_home.xls): failed to open stream: Permission denied C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Shared\OLE\PPS\Root.php 90
+ERROR - 2014-02-19 12:45:00 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:45:00 --> Severity: Warning  --> fopen(C:\xampp\htdocs\dkdt\application\controllers\c_home.xls): failed to open stream: Permission denied C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Shared\OLE\PPS\Root.php 90
+ERROR - 2014-02-19 12:45:05 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:45:39 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:45:52 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:45:52 --> Severity: Warning  --> fopen(C:\xampp\htdocs\dkdt\application\controllers\c_home.xls): failed to open stream: Permission denied C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Shared\OLE\PPS\Root.php 90
+ERROR - 2014-02-19 12:46:04 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:46:04 --> Severity: Warning  --> fopen(C:\xampp\htdocs\dkdt\application\controllers\c_home.xls): failed to open stream: Permission denied C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Shared\OLE\PPS\Root.php 90
+ERROR - 2014-02-19 12:46:15 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 12:46:36 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Cell.php 765
+ERROR - 2014-02-19 13:52:33 --> Severity: Warning  --> fopen(C:\xampp\htdocs\dkdt\application\controllers\c_home.xls): failed to open stream: Permission denied C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Shared\OLE\PPS\Root.php 90
+ERROR - 2014-02-19 14:13:42 --> Severity: Notice  --> Undefined variable: writer C:\xampp\htdocs\dkdt\application\controllers\c_home.php 137
+ERROR - 2014-02-19 14:13:49 --> Severity: Notice  --> Undefined variable: writer C:\xampp\htdocs\dkdt\application\controllers\c_home.php 137
+ERROR - 2014-02-19 14:14:06 --> Severity: Notice  --> Undefined variable: writer C:\xampp\htdocs\dkdt\application\controllers\c_home.php 137
+ERROR - 2014-02-19 14:43:23 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 21
+ERROR - 2014-02-19 14:44:05 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:44:37 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:44:41 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:46:06 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 25
+ERROR - 2014-02-19 14:46:13 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 25
+ERROR - 2014-02-19 14:47:44 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:48:18 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 27
+ERROR - 2014-02-19 14:48:35 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 27
+ERROR - 2014-02-19 14:49:04 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 27
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: arr_detail C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 14:52:44 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 45
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: id_detai C:\xampp\htdocs\dkdt\application\controllers\c_home.php 26
+ERROR - 2014-02-19 14:53:49 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 45
+ERROR - 2014-02-19 14:54:42 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 45
+ERROR - 2014-02-19 15:14:34 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 16
+ERROR - 2014-02-19 15:14:34 --> Severity: Notice  --> Undefined variable: objPHPExcel C:\xampp\htdocs\dkdt\application\controllers\c_home.php 169
+ERROR - 2014-02-19 15:14:34 --> Severity: 4096  --> Argument 1 passed to PHPExcel_IOFactory::createWriter() must be an instance of PHPExcel, null given, called in C:\xampp\htdocs\dkdt\application\controllers\c_home.php on line 169 and defined C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\IOFactory.php 132
+ERROR - 2014-02-19 15:14:34 --> Severity: 4096  --> Argument 1 passed to PHPExcel_Writer_Excel5::__construct() must be an instance of PHPExcel, null given, called in C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\IOFactory.php on line 141 and defined C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Writer\Excel5.php 106
+ERROR - 2014-02-19 15:14:34 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\dkdt\application\controllers\c_home.php:147) C:\xampp\htdocs\dkdt\application\controllers\c_home.php 172
+ERROR - 2014-02-19 15:14:34 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\dkdt\application\controllers\c_home.php:147) C:\xampp\htdocs\dkdt\application\controllers\c_home.php 173
+ERROR - 2014-02-19 15:16:42 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 20
+ERROR - 2014-02-19 15:16:42 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\dkdt\application\controllers\c_home.php:158) C:\xampp\htdocs\dkdt\application\controllers\c_home.php 173
+ERROR - 2014-02-19 15:16:42 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\dkdt\application\controllers\c_home.php:158) C:\xampp\htdocs\dkdt\application\controllers\c_home.php 174
+ERROR - 2014-02-19 15:17:39 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\dkdt\application\controllers\c_home.php:150) C:\xampp\htdocs\dkdt\application\controllers\c_home.php 174
+ERROR - 2014-02-19 15:17:39 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\dkdt\application\controllers\c_home.php:150) C:\xampp\htdocs\dkdt\application\controllers\c_home.php 175
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 157
+ERROR - 2014-02-19 15:23:50 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\dkdt\application\controllers\c_home.php 158
+ERROR - 2014-02-19 15:28:47 --> Severity: Warning  --> fopen(C:\xampp\htdocs\dkdt\application\controllers\c_home.xls): failed to open stream: Permission denied C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Shared\OLE\PPS\Root.php 90
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:51 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:41:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 166
+ERROR - 2014-02-19 15:49:58 --> Severity: Warning  --> fopen(C:\xampp\htdocs\dkdt\application\controllers\c_home.xls): failed to open stream: Permission denied C:\xampp\htdocs\dkdt\application\third_party\PHPExcel\Shared\OLE\PPS\Root.php 90
+ERROR - 2014-02-19 15:52:08 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:08 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\dkdt\application\controllers\c_home.php 165
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Array to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:41 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 15:52:42 --> Severity: Notice  --> Object of class stdClass to string conversion C:\xampp\htdocs\dkdt\application\controllers\c_home.php 164
+ERROR - 2014-02-19 16:02:59 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 22
+ERROR - 2014-02-19 16:02:59 --> Severity: Notice  --> Undefined variable: cn C:\xampp\htdocs\dkdt\application\controllers\c_home.php 27
+ERROR - 2014-02-19 16:02:59 --> Severity: Notice  --> Undefined offset: -1 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel.php 228
+ERROR - 2014-02-19 16:02:59 --> Severity: Notice  --> Undefined offset: -1 C:\xampp\htdocs\dkdt\application\third_party\PHPExcel.php 228

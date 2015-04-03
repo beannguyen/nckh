@@ -1,0 +1,11 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-02-10 14:30:39 --> Severity: Warning  --> strpos(): Empty delimiter C:\xampp\htdocs\ci_dkdt\application\hooks\acl_hook.php 208
+ERROR - 2014-02-10 14:38:30 --> Severity: Notice  --> Undefined variable: ds_cn C:\xampp\htdocs\ci_dkdt\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-02-10 14:38:30 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\ci_dkdt\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-02-10 14:38:30 --> Severity: Notice  --> Undefined variable: ds_lop C:\xampp\htdocs\ci_dkdt\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-02-10 14:38:30 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\ci_dkdt\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-02-10 14:38:32 --> Severity: Notice  --> Undefined variable: ds_cn C:\xampp\htdocs\ci_dkdt\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-02-10 14:38:32 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\ci_dkdt\application\views\backend\quanly_nguoidung\index.php 72
+ERROR - 2014-02-10 14:38:32 --> Severity: Notice  --> Undefined variable: ds_lop C:\xampp\htdocs\ci_dkdt\application\views\backend\quanly_nguoidung\index.php 93
+ERROR - 2014-02-10 14:38:32 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\ci_dkdt\application\views\backend\quanly_nguoidung\index.php 93

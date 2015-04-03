@@ -1,0 +1,17 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-02-11 10:53:19 --> Severity: Notice  --> Undefined property: C_admin::$m_dangdetai_gv C:\xampp\htdocs\ci_dkdt\application\controllers\c_admin.php 699
+ERROR - 2014-02-11 10:53:26 --> Severity: Notice  --> Undefined property: C_admin::$m_dangdetai_gv C:\xampp\htdocs\ci_dkdt\application\controllers\c_admin.php 699
+ERROR - 2014-02-11 10:54:09 --> Severity: Warning  --> Missing argument 1 for M_dangdetai_gv::get_detai_giangvien(), called in C:\xampp\htdocs\ci_dkdt\application\controllers\c_admin.php on line 700 and defined C:\xampp\htdocs\ci_dkdt\application\models\m_dangdetai_gv.php 41
+ERROR - 2014-02-11 10:54:09 --> Severity: Warning  --> Missing argument 2 for M_dangdetai_gv::get_detai_giangvien(), called in C:\xampp\htdocs\ci_dkdt\application\controllers\c_admin.php on line 700 and defined C:\xampp\htdocs\ci_dkdt\application\models\m_dangdetai_gv.php 41
+ERROR - 2014-02-11 10:54:09 --> Severity: Notice  --> Undefined variable: cauhinh_id C:\xampp\htdocs\ci_dkdt\application\models\m_dangdetai_gv.php 44
+ERROR - 2014-02-11 10:54:09 --> Severity: Notice  --> Undefined variable: giangvien_id C:\xampp\htdocs\ci_dkdt\application\models\m_dangdetai_gv.php 46
+ERROR - 2014-02-11 12:34:11 --> Severity: Notice  --> Undefined variable: info_cauhinh C:\xampp\htdocs\ci_dkdt\application\views\backend\quanly_detai\view_themdetai.php 94
+ERROR - 2014-02-11 12:34:11 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_dkdt\application\views\backend\quanly_detai\view_themdetai.php 94
+ERROR - 2014-02-11 13:02:36 --> Severity: Notice  --> Undefined index: loai_detai C:\xampp\htdocs\ci_dkdt\application\controllers\c_admin.php 725
+ERROR - 2014-02-11 13:02:36 --> Query error: Column 'loaidetai' cannot be null
+ERROR - 2014-02-11 14:13:21 --> Severity: Notice  --> Undefined variable: user_id C:\xampp\htdocs\ci_dkdt\application\controllers\c_admin.php 749
+ERROR - 2014-02-11 14:18:25 --> Severity: Notice  --> Undefined index: giangvien_id C:\xampp\htdocs\ci_dkdt\application\controllers\c_admin.php 749
+ERROR - 2014-02-11 14:18:25 --> Severity: Notice  --> Undefined variable: user_id C:\xampp\htdocs\ci_dkdt\application\controllers\c_admin.php 750
+ERROR - 2014-02-11 14:19:54 --> Severity: Notice  --> Undefined index: giangvien_id C:\xampp\htdocs\ci_dkdt\application\controllers\c_admin.php 749
+ERROR - 2014-02-11 19:29:24 --> Severity: Notice  --> Undefined variable: pagination C:\xampp\htdocs\ci_dkdt\application\views\dangky_detai\detai_giangvien_ajax_page.php 66

@@ -1,0 +1,5 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-11-29 21:44:28 --> Severity: Notice  --> Undefined index: gv_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 425
+ERROR - 2014-11-29 21:44:28 --> Severity: Notice  --> Undefined index: cauhinh_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 426
+ERROR - 2014-11-29 21:44:28 --> Severity: Notice  --> Undefined index: cn_id D:\xampp\htdocs\dkdttn\application\controllers\c_home.php 427
